@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-ndarraylike2ndarray",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert an ndarray-like object to an ndarray.",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
     "@stdlib/ndarray-base-assert-is-read-only": "^0.2.2",
     "@stdlib/ndarray-ctor": "^0.2.2",
     "@stdlib/ndarray-data-buffer": "^0.2.2",
-    "@stdlib/ndarray-defaults": "^0.3.0",
+    "@stdlib/ndarray-defaults": "^0.4.0",
     "@stdlib/ndarray-dtype": "^0.2.2",
     "@stdlib/ndarray-offset": "^0.2.2",
     "@stdlib/ndarray-order": "^0.2.2",
@@ -87,7 +87,6 @@
     "utils",
     "util"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"

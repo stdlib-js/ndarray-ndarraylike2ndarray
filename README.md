@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ndarraylike2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ndarraylike2ndarray@esm/index.mjs';
+import ndarraylike2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ndarraylike2ndarray@v0.1.0-esm/index.mjs';
 ```
 
 #### ndarraylike2ndarray( x\[, options] )
@@ -100,7 +100,7 @@ The function supports the same `options` as [`ndarray`][@stdlib/ndarray/ctor].
 <script type="module">
 
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@esm/index.mjs';
-import ndarraylike2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ndarraylike2ndarray@esm/index.mjs';
+import ndarraylike2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ndarraylike2ndarray@v0.1.0-esm/index.mjs';
 
 // Create an ndarray:
 var x = array( [ [ 1, 2 ], [ 3, 4 ] ] );

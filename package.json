@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-ndarraylike2ndarray",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert an ndarray-like object to an ndarray.",
   "license": "Apache-2.0",
   "author": {
@@ -37,26 +37,26 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/ndarray-base-assert-is-read-only": "^0.2.2",
-    "@stdlib/ndarray-ctor": "^0.2.2",
-    "@stdlib/ndarray-data-buffer": "^0.2.2",
-    "@stdlib/ndarray-defaults": "^0.4.0",
-    "@stdlib/ndarray-dtype": "^0.2.2",
-    "@stdlib/ndarray-offset": "^0.2.2",
-    "@stdlib/ndarray-order": "^0.2.2",
-    "@stdlib/ndarray-shape": "^0.2.2",
-    "@stdlib/ndarray-strides": "^0.2.2",
+    "@stdlib/ndarray-base-assert-is-read-only": "^0.2.3",
+    "@stdlib/ndarray-ctor": "^0.3.0",
+    "@stdlib/ndarray-data-buffer": "^0.2.3",
+    "@stdlib/ndarray-defaults": "^0.4.1",
+    "@stdlib/ndarray-dtype": "^0.2.3",
+    "@stdlib/ndarray-offset": "^0.2.3",
+    "@stdlib/ndarray-order": "^0.2.3",
+    "@stdlib/ndarray-shape": "^0.2.3",
+    "@stdlib/ndarray-strides": "^0.2.3",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
-    "@stdlib/array-float64": "^0.2.2",
-    "@stdlib/assert-is-collection": "^0.2.2",
-    "@stdlib/ndarray-array": "^0.2.1",
-    "@stdlib/ndarray-base-ctor": "^0.2.2",
+    "@stdlib/array-float64": "^0.2.3",
+    "@stdlib/assert-is-collection": "^0.2.3",
+    "@stdlib/ndarray-array": "^0.2.2",
+    "@stdlib/ndarray-base-ctor": "^0.3.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
